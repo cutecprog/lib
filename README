@@ -1,2 +1,2 @@
-Hold in this directory code generic code usable between projects. Current commit library code may not work for previous game projects.
-Get library code version in the final commit of a game project.
+Hold generic python code. Repo doesn't guarantee backwards compatability to
+previous commits. Please check out approiate commit.
